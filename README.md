@@ -6,6 +6,7 @@ Para este desafio, você precisará usar seus conhecimentos adquiridos no módul
 
 ## Contexto
 Você é responsável por modelar um sistema que trabalha com celulares. Para isso, foi solicitado que você faça uma abstração de um celular e disponibilize maneiras de diferentes marcas e modelos terem seu próprio comportamento, possibilitando um maior reuso de código e usando a orientação a objetos.
+![celulares](Imagens/celulares.jpg)
 
 ## Proposta
 Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
@@ -20,3 +21,6 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Conclusão
+Implementado a herança, propriedades, além de métodos. Ademais, pode ser testado de maneira interativa através do uso de while e switch case.
