@@ -88,8 +88,6 @@ class Program
         else if (smartphone == "nokia")
         {
             Nokia nokia = new Nokia(numero, modelo, imei, memoria);
-            
-            nokia.InstalarAplicativo("Whatsapp");
 
             while (ExibirMenu)
             {   
